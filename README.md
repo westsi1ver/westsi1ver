@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 효율적으로 돕는 사람, 웨스트실버입니다.
+# 👋 처음을 어렵지 않게 만드는 사람, 웨스트실버입니다.
 
 ### **Make the first step easier. 🌱**
 
